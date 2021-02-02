@@ -6,7 +6,7 @@ Workshop tutorial for using BigBrain atlas of cortical layers
 
 To download the repo with the notebooks and data,
 
-git clone github.com/kwagstyl/cortical_layers_tutorial
+git clone https://github.com/kwagstyl/cortical_layers_tutorial
 
 For visualising the data you will also need to install pyminc and matplotlib_surface_plotting:
 

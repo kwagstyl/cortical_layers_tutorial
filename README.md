@@ -7,7 +7,9 @@ To download the repo with the notebooks and data,
 git clone github.com/kwagstyl/cortical_layers_tutorial
 
 For visualising the data you will also need to install pyminc and matplotlib_surface_plotting:
+
 pip install pyminc
+
 pip install matplotlib-surface-plotting
 
 Then you should be ready to go!
@@ -23,5 +25,7 @@ Any questions?
 Twitter @KonradWagstyl
 
 To find out more about the atlas or to cite the dataset in your work, please use:
-Wagstyl, K., et al (2020). BigBrain 3D atlas of cortical layers: Cortical and laminar thickness gradients diverge in sensory and motor cortices. PLoS Biology, 18(4), e3000678.
+
+Wagstyl, K., et al (2020). BigBrain 3D atlas of cortical layers: 
+Cortical and laminar thickness gradients diverge in sensory and motor cortices. PLoS Biology, 18(4), e3000678.
 http://dx.doi.org/10.1371/journal.pbio.3000678

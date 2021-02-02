@@ -1,7 +1,7 @@
 # Cortical layers tutorial
 Workshop tutorial for using BigBrain atlas of cortical layers
 
-![alt text](https://github.com/kwagstyl/cortical_layers_tutorial/blob/main/data/Figure1SixLayersFigure_pixels-01.png =250x)
+![alt text](https://github.com/kwagstyl/cortical_layers_tutorial/blob/main/data/Figure1SixLayersFigure_pixels-01.png?=250x)
 
 
 To download the repo with the notebooks and data,

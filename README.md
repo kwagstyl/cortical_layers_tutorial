@@ -1,5 +1,5 @@
-# Cortical layers tutorial
-Workshop tutorial for using BigBrain atlas of cortical layers
+# HIBALL workshop on cortical layers 
+Workshop materials for using BigBrain atlas of cortical layers
 
 <img src="https://github.com/kwagstyl/cortical_layers_tutorial/blob/main/data/Figure1SixLayersFigure_pixels-01.png" width="500" >
 

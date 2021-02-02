@@ -22,8 +22,8 @@ Example notebooks with ideas for how to interact with the data can be found in n
 
 Example solutions to the workshop tasks can be found in the solution_ notebooks.
 
-Any questions?
-Twitter @KonradWagstyl
+Spotted a mistake or have a questions?
+Please message me, create an issue or email me on konrad dot wagstyl at gmail dot com
 
 To find out more about the atlas or to cite the dataset in your work, please use:
 

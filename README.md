@@ -10,9 +10,8 @@ git clone github.com/kwagstyl/cortical_layers_tutorial
 
 For visualising the data you will also need to install pyminc and matplotlib_surface_plotting:
 
-pip install pyminc
+pip install pyminc matplotlib-surface-plotting
 
-pip install matplotlib-surface-plotting
 
 Then you should be ready to go!
 
